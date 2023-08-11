@@ -2,7 +2,7 @@
 
 My name is Dominic and I am a swiss developer :)
 
-- 🔭 I’m currently working on my own website with OAuth 2.0
+- 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning Blazor
 
 <!--
