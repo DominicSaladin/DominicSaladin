@@ -2,8 +2,7 @@
 
 My name is Dominic and I am a swiss developer :)
 
-- 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning Blazor
+- ⚡No idea what I'm currently doing
 
 <!--
 **DominicSaladin/DominicSaladin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
